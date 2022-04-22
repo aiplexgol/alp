@@ -14,7 +14,7 @@
 	"global_trigger": "enable",
 	"admin_sniff": false,
 	"global_trigger_extra": "disable",
-	"universal_base_url": "https://aiplexgames.gitlab.io/ttr/",
+	"universal_base_url": "https://aiplexgames.gitlab.io/ttr",
 	"home_slider": "/slider_top.json",
 	"home_api": "/slider_bottom.json",
 	"live_api": "/livetv.json",
